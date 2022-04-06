@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduardo.hernandez\\web\\Tendencia S.A\\Tendencia S.A.csproj",
+      "projectUniqueName": "C:\\Users\\eduardo.hernandez\\web\\Tendencia\\SitioWebTendencia\\Tendencia S.A\\Tendencia S.A.csproj",
       "projectName": "Tendencia S.A",
-      "projectPath": "C:\\Users\\eduardo.hernandez\\web\\Tendencia S.A\\Tendencia S.A.csproj",
+      "projectPath": "C:\\Users\\eduardo.hernandez\\web\\Tendencia\\SitioWebTendencia\\Tendencia S.A\\Tendencia S.A.csproj",
       "packagesPath": "C:\\Users\\eduardo.hernandez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eduardo.hernandez\\web\\Tendencia S.A\\obj\\",
+      "outputPath": "C:\\Users\\eduardo.hernandez\\web\\Tendencia\\SitioWebTendencia\\Tendencia S.A\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eduardo.hernandez\\AppData\\Roaming\\NuGet\\NuGet.Config"
