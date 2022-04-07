@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Tendencia S.A</RootNamespace>
+    <RootNamespace>Tendencia_S.A</RootNamespace>
   </PropertyGroup>
 
 </Project>
