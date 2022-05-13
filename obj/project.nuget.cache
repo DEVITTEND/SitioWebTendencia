@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i38DqzF2YKEhyR7UFDsjy9+P7B5iV0VmBLwHpCeOjWfWbHYEWVNWgpQKq2uXOD6VC9n3Jk11u/NdhGe1m3USmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eduardo.hernandez\\web\\Tendencia\\SitioWebTendencia\\Tendencia S.A.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduardo.hernandez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
