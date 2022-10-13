@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Iz+uAgdeJIZEzYQcDtjldayPcYxxbTmjR7hXNp3PSP6hFpg7Ubo5Fuoz1bbdpgiES4ZxuYwtIMZnpD05tT7ONQ==",
+  "dgSpecHash": "Ii4IPA1jKOJ6E0PrVs8AMal/vcDlWrvXT7UfpBda6kK0RCxh0/UZiunqVZaSmaLPhovadr1jkXYZdkI8B39ZHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eduardo.hernandez\\web\\Tendencia\\SitioWebTendencia\\Tendencia S.A\\Tendencia S.A.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\eduardo.hernandez\\OneDrive - Tendencia, S.A\\Documentos\\GitHub\\SitioWebTendencia\\Tendencia S.A\\Tendencia S.A.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduardo.hernandez\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eduardo.hernandez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eduardo.hernandez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\eduardo.hernandez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
